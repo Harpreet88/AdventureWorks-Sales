@@ -1,9 +1,9 @@
-**Adventure Works**
+<h1><b>Adventure Works</b></h1>
 
 A company that manufactures and sells bikes and related accessories/clothing.
 The Production Manager is responsible for determining which products to manufacture, which they do by creating Work Orders for their team. Product sales are recorded in Sales Orders.
 
-**Operational Dashboard**
+<h3>Operational Dashboard</h3>
 
 It provides a comprehensive overview of the company's bike sales performance, inventory levels, and financial health. It helps answer critical business questions:
 1. Financial Performance: How is the company's total revenue and profit progressing?
@@ -15,7 +15,7 @@ It provides a comprehensive overview of the company's bike sales performance, in
 
 
 
-**Strategic Dashboard**
+<h3>Strategic Dashboard</h3>
 
 
 Works is a company that manufactures and sells bikes and related accessories/clothing. The executive team uses the balanced scorecard method to manage the organization. 
